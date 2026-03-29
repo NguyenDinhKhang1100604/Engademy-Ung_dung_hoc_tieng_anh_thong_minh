@@ -1,0 +1,30 @@
+{
+  "name": "dacn_engademy-ung_dung_hoc_tieng_anh_thong_minh",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenDinhKhang1100604/DACN_Engademy-Ung_dung_hoc_tieng_anh_thong_minh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenDinhKhang1100604/DACN_Engademy-Ung_dung_hoc_tieng_anh_thong_minh/issues"
+  },
+  "homepage": "https://github.com/NguyenDinhKhang1100604/DACN_Engademy-Ung_dung_hoc_tieng_anh_thong_minh#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "firebase-admin": "^13.6.0",
+    "natural": "^8.1.0"
+  }
+}
